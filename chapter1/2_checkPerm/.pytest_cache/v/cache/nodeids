@@ -1,0 +1,8 @@
+[
+  "checkperm_tests.py::test_checkPerm1",
+  "checkperm_tests.py::test_checkPerm2",
+  "checkperm_tests.py::test_checkPerm3",
+  "checkperm_tests.py::test_checkPerm4",
+  "checkperm_tests.py::test_checkPerm5",
+  "checkperm_tests.py::test_checkPerm6"
+]

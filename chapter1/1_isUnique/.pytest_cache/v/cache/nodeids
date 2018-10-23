@@ -1,0 +1,18 @@
+[
+  "isunique_tests.py::test_allUnique1",
+  "isunique_tests.py::test_allUnique2",
+  "isunique_tests.py::test_allUnique3",
+  "isunique_tests.py::test_allUnique4",
+  "isunique_tests.py::test_allUnique5",
+  "isunique_tests.py::test_allUnique6",
+  "isunique_tests.py::test_allUnique7",
+  "isunique_tests.py::test_allUnique8",
+  "isunique_tests.py::test_allUniqueAlt1",
+  "isunique_tests.py::test_allUniqueAlt2",
+  "isunique_tests.py::test_allUniqueAlt3",
+  "isunique_tests.py::test_allUniqueAlt4",
+  "isunique_tests.py::test_allUniqueAlt5",
+  "isunique_tests.py::test_allUniqueAlt6",
+  "isunique_tests.py::test_allUniqueAlt7",
+  "isunique_tests.py::test_allUniqueAlt8"
+]
